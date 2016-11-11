@@ -1,8 +1,8 @@
 #Space Shooter - Mac
 
-Controls:
+##Controls:
 
-Fire - Spacebar
-Move - arrow keys
-to restart game - r when the waves de-spawn off the screen.
-exit game - command + q
+##Fire - Spacebar
+##Move - arrow keys
+##to restart game - r when the waves de-spawn off the screen.
+##exit game - command + q
